@@ -4,10 +4,8 @@
 <!-- About Me -->
 ## About Me
 
-I'm a passionate computer engineering student with a deep interest in data science, data engineering, and software development. Currently, I'm exploring the intersection of technology and motorsports, particularly in Formula 1.
-
 * 🎓 Education: 4rd(Final)-year Computer Engineering student
-* 💻 Current Focus: Data engineering, software engineering, and machine learning
+* 💻 Current Focus: Data engineering, Data Science, AI and Cloud Computing.
 * 🚀 Goals: To work on cutting-edge technologies in the Formula 1 industry
 
 <!-- Tech Stack -->
@@ -43,5 +41,6 @@ I'm a passionate computer engineering student with a deep interest in data scien
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osnn96&layout=compact&theme=default&hide_border=true)
 </div>
+
 
 
